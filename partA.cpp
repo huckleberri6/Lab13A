@@ -196,6 +196,7 @@ int readFromFile(string filename)
 	return numCharacters;
 }
 
+
 bool containsLetter(string s)
 {
 	int a = 0;
